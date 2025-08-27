@@ -9,7 +9,7 @@ table.middle {
 table.middle td, table.middle th {
     border: 1px solid black;   /* Cell border */
     padding: 1px;              /* Cell padding */
-    height: 50px;              /* Default cell height */
+    height: 10px;              /* Default cell height */
 }
 
 /* Alignment classes */
