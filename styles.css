@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+table {
+    border: 1px solid black;       /* Table border */    /* Merge inner borders */
+    width: 100%;                   /* Stretch full width */
+	border-spacing: 1px;
+  }
+
+  table td, table th {
+    border: 1px solid black;       /* Cell border */
+    padding: 1px;                  /* Cell padding */
+    height: 10px;                  /* Default cell height */
+  }
+.right{
+	text-align:right
+}
+#t11, #t21, #t31{
+	text-align:left
+}
+#t12, #t22, #t32{
+	text-align:center
+}
+
+ 
