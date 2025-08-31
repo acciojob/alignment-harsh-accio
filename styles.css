@@ -1,7 +1,9 @@
 td {
-    padding: 1px;
-    border: 1px solid #000;
-  }
+  padding: 1px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #000;
+}
   .center { text-align: center; }
   .right { text-align: right; }
   .green { background-color: green; height: 20px; }
